@@ -15,9 +15,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 - 👋 Hi, I’m Sam
-- 👀 I’m interested in web development 😊, music, education, snowboarding, trail running, embroidery, and history.
-- 🎓 Certificate from University of Denver Full-Stack Web Development Bootcamp.
-- 💞️ I’m looking to collaborate on music education platforms, educational resources, and anything that will make the internet more accessible to all people.
+- 👀 I’m interested in coding 😊, music, education, snowboarding, trail running, embroidery, and history.
+- 🎓 Certificate from the University of Denver Full-Stack Web Development Bootcamp.
+- 💞️ I’m looking for a junior web developer position.
 - 📫 How to reach me: samanthajrexroat@gmail.com
 - 📱 Check out my portfolio at https://samanthajrexroat.github.io/Portfolio/
 
