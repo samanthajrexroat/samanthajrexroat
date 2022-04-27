@@ -21,7 +21,8 @@
 - 📫 How to reach me: samanthajrexroat@gmail.com
 - 📱 Check out my portfolio at https://samanthajrexroat.github.io/Portfolio/
 
-<a href="https://www.linkedin.com/in/samanthajrexroat"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samantha Rexroat | LinkedIn" width="21px"/></a>
+Connect with me on LinkedIn!
+<a href="https://www.linkedin.com/in/samanthajrexroat"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samantha Rexroat | LinkedIn" width="30px"/></a>
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samanthajrexroat&theme=dark&background=000000)](https://git.io/streak-stats)
