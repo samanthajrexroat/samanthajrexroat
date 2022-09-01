@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/samanthajrexroat"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samantha Rexroat | LinkedIn" width="30px"/>Connect with me on LinkedIn!</a>
 <br>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samanthajrexroat&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samanthajrexroat&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajrexroat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
