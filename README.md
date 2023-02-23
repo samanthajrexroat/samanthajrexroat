@@ -12,15 +12,16 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - 👋 Hi, I’m Sam (She/Her)
 - 👀 I’m interested in coding 😊, music, education, snowboarding, trail running, embroidery, and history.
 - 🦖 Creative Tech I Developer at the Denver Museum of Nature and Science.
 - 🎓 Certificate from the University of Denver Full-Stack Web Development Bootcamp.
-- 🌱 Currently learning C#, dotnet, and Unity.
+- 🌱 Currently learning C#, .NET, and Unity.
 - 📫 How to reach me: samanthajrexroat@gmail.com
 - 📱 Check out my portfolio at https://samanthajrexroat.github.io/Portfolio/
 
