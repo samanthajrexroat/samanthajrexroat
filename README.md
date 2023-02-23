@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m Sam (She/Her)
 - 👀 I’m interested in coding 😊, music, education, snowboarding, trail running, embroidery, and history.
-- 🦖 Creative Tech I Developer at the Denver Museum of Nature and Science.
+- 🦖 Creative Tech Developer I at the Denver Museum of Nature and Science.
 - 🎓 Certificate from the University of Denver Full-Stack Web Development Bootcamp.
 - 🌱 Currently learning C#, .NET, and Unity.
 - 📫 How to reach me: samanthajrexroat@gmail.com
